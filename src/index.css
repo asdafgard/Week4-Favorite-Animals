@@ -1,0 +1,11 @@
+body {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #edf4e8, #d6e6d3 55%, #f5eddd);
+}
+
+.animal-table tbody {
+  --bs-table-bg: #f6e8d5;
+  --bs-table-striped-bg: #eddbc2;
+  --bs-table-color: #000;
+  --bs-table-striped-color: #000;
+}
